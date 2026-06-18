@@ -1,4 +1,4 @@
-# CrispyBite Frontend
+# CrispyBite Frontend for recess students
 
 CrispyBite is a fictional React food ordering app built for students learning full-stack development. It connects to the CrispyBite Express backend and supports customer, restaurant staff, delivery rider, and admin workflows.
 
